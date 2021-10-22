@@ -2,7 +2,7 @@
 
 ![title](https://user-images.githubusercontent.com/66298612/138408011-3541e93e-f80c-479f-a259-995a010d4f1d.JPG)
 
-----
+- - - -
 
 # 프로젝트 설명
 
