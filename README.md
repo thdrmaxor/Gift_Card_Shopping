@@ -1,6 +1,7 @@
 # Gift_Card_Shopping
 
-[누리홈쇼핑 메인페이지 이미지첨부]
+![title](https://user-images.githubusercontent.com/66298612/138408011-3541e93e-f80c-479f-a259-995a010d4f1d.JPG)
+
 
 ----
 
