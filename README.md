@@ -38,3 +38,22 @@
 -- root(관리자)계정으로 로그인한다.
 
 ----
+
+## 초기 화면
+![화면3](https://user-images.githubusercontent.com/66298612/153322544-fdad431b-2d0f-4919-8cb1-4f68abb8567e.png)
+
+----
+
+## 로그인 화면
+![화면1](https://user-images.githubusercontent.com/66298612/153322556-ab37d8c5-414a-460a-b0dc-437463607ac2.png)
+
+----
+
+## 판매상품 화면
+![화면2](https://user-images.githubusercontent.com/66298612/153322578-323819a8-8072-4675-8c6d-f75f8da9bb90.png)
+
+----
+
+## 자유게시판 화면
+![화면4](https://user-images.githubusercontent.com/66298612/153322753-c79aaf2f-1026-4fbe-8583-b2f76a2d8d2d.png)
+
